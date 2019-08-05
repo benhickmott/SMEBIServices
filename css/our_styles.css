@@ -1,0 +1,170 @@
+﻿@charset "UTF-8";
+/* CSS Document */
+
+/* our_styles.css
+Made by Ben H and James M 
+Commented out Previous CSS
+*/
+.navbar .navbar-collapse {
+	text-align: center;
+  }
+.dashboardContainer {
+	display:block;
+	width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
+/* Style.css
+* Created by James Morris
+* Student number - c3258992
+* Purpose: to style and format
+* the HTML home page.
+*/
+
+/* Background image in HTML */
+/*
+.body {
+    background-color: #ffffff;
+    background-size: 50%;
+    background-attachment: fixed;
+}
+
+
+
+#header {
+    height: 5%;
+    background-color: #1c3251;
+    margin-top: 0%;
+    margin-bottom: 0px;
+    margin-right: 2cm;
+    margin-left: 2cm;
+    color: #e3e3e3;
+    font-family: "Georgia", Serif;
+}
+
+
+div.navigation {
+	clear: left;
+	margin-right:2cm;
+	margin-left:2cm;
+	font-family:verdana;
+}
+
+.ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #1c3251
+}
+
+.li {
+    float: left;
+}
+
+.li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+.li:hover {background-color: grey;
+			font-size:100%;
+}
+.li:active {background-color: #e5c100;
+    		color: white;
+}
+
+.li:visited {color: #e5c100 }
+
+
+
+#intro {
+    background-color: #1c3251;
+    margin-left: 1cm;
+    margin-right: 1cm;
+    font-family: "Georgia", Serif;
+    font-size: 140%;
+}
+
+		
+#lux	{margin-left: 1cm;
+		margin-right: 1cm;
+		font-size: 130%;
+		font-family: "Georgia", Serif;
+}		
+		
+#bud	{margin-left: 1cm;
+		margin-right: 1cm;
+		font-size: 130%;
+		font-family: "Georgia", Serif;
+}
+
+
+div.container {
+	background-color: white;
+	font-style: normal;
+	font-weight: 200;
+	margin-right: 2cm;
+	margin-left: 2cm;
+	text-align: left;
+	font-size: 18px;
+}
+
+/* level 1 headings uppercase, centered, and underlined */
+/*
+h1 {text-align:center;
+	font-family: Calibri, sans-serif;
+	font-size:320%;
+	color:#e5c100;
+}
+
+
+/* level 2 headings are uppercase, centered, and underlined */
+/*
+h2 {
+	text-transform: uppercase;
+	text-align: center;
+	color: #7b2828;
+	font-size: 150%;
+	text-decoration: underline;
+	font-family: "Georgia", Serif;
+	font-weight: bold;
+	font-style: italic;
+}
+
+h3 {line-height: 600%;
+	font-family: "Gerogia", Serif;
+}
+
+img {
+	text-align:center;
+	align-content:center
+}
+
+#big {text-align:center;
+}
+
+
+
+div.footer {background-color: #dcd0bb;
+		margin-left:0cm;
+		margin-right:0cm;
+		text-align: center;
+}
+
+
+
+img.center {align-content:center}
+
+div.intro {margin-left:2cm;
+			margin-right:2cm;
+			text-align:center;
+}
+*/
